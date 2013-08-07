@@ -1,0 +1,2 @@
+get-sbin-permission
+===================
